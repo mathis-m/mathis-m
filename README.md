@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on @swagger-api/swagger-ui
 
 <details>
-![Visitor Count](https://profile-counter.glitch.me/mathis-m/count.svg)
+<img src="https://profile-counter.glitch.me/mathis-m/count.svg"/>
 </details>
 <!--
 **mathis-m/mathis-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
