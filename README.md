@@ -2,6 +2,7 @@
 - 🔭 I’m currently working on @swagger-api/swagger-ui
 
 [LinkedIn](https://www.linkedin.com/in/mathis-michel-a23726133/)
+
 [XING](https://www.xing.com/profile/Mathis_Michel2/cv)
 <details><summary></summary>
 <img width="1px" height="1px" src="https://profile-counter.glitch.me/mathis-m/count.svg"/>
