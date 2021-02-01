@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on @swagger-api/swagger-ui
 
-<details>
+<details><summary></summary>
 <img src="https://profile-counter.glitch.me/mathis-m/count.svg"/>
 </details>
 <!--
