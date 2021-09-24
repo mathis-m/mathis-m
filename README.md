@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on @swagger-api/swagger-ui
+- 🔭 I’m currently working on @swagger-api/swagger-ui, [have a look at my contribution!](https://github.com/swagger-api/swagger-ui/pulls?q=is%3Apr+author%3Amathis-m)
 - 👯 I’m looking to collaborate on building a code editor that is OpenAPI Schema aware (This could become very useful within swagger-ui for example when editing the request body).
   1. Very Relaxed JSON Tokenizer + AST is needed (https://github.com/mathis-m/graceful-json)
   2. The OpenAPI analyser
