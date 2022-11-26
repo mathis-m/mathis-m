@@ -16,6 +16,9 @@
 <details><summary></summary>
 <img width="1px" height="1px" src="https://profile-counter.glitch.me/mathis-m/count.svg"/>
 </details>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathis-m)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **mathis-m/mathis-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +26,6 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning ...
-
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
