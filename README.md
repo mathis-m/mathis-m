@@ -13,11 +13,14 @@
 [Medium](https://mathis-michel.medium.com/)
  - [Customizing swagger-ui: date picker](https://mathis-michel.medium.com/using-swagger-ui-pluginapi-to-render-date-picker-7243369b2800)
  - [Customizing swagger-ui: Logout Action](https://mathis-michel.medium.com/customizing-swagger-ui-logout-action-b9a2cc31989c)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathis-m)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathis-m)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <details><summary></summary>
 <img width="1px" height="1px" src="https://profile-counter.glitch.me/mathis-m/count.svg"/>
 </details>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathis-m)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mathis-m/mathis-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
