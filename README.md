@@ -1,10 +1,20 @@
-### Hi there 👋
-- 🔭 I’m currently working on @swagger-api/swagger-ui, [have a look at my contribution!](https://github.com/swagger-api/swagger-ui/pulls?q=is%3Apr+author%3Amathis-m)
-- 👯 I’m looking to collaborate on building a code editor that is OpenAPI Schema aware (This could become very useful within swagger-ui for example when editing the request body).
-  1. Very Relaxed JSON Tokenizer + AST is needed (https://github.com/mathis-m/graceful-json)
-  2. The OpenAPI analyser
-  3. react textbox editor with syntax higlight
-  4. smart suggestions and autocompleter
+## 👋 Hi there!
+
+I'm a passionate and highly skilled frontend developer — possibly one of the best you'll meet 😉.
+
+### 🚀 What I work with:
+- **React** — my daily bread and butter  
+- **Fluent UI v9** — for beautiful, accessible design systems  
+- **PCF (PowerApps Component Framework)** — extending Power Platform with custom controls  
+- **.NET Framework** — because great frontend often needs solid backend support
+
+### 💡 What I love:
+I thrive on **analyzing problems** and crafting elegant solutions.  
+Building **tools and frameworks for other developers** is my definition of *god-tier software development* — done right, it has the biggest impact.
+
+---
+
+Let’s build something awesome! 🚀
 
 [LinkedIn](https://www.linkedin.com/in/mathis-michel-a23726133/)
 
