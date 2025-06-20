@@ -12,6 +12,9 @@ I'm a passionate and highly skilled frontend developer — possibly one of the b
 I thrive on **analyzing problems** and crafting elegant solutions.  
 Building **tools and frameworks for other developers** is my definition of *god-tier software development* — done right, it has the biggest impact.
 
+### 🤝 How I work:
+I **always contribute back** — if I uncover something while digging into the internals, you can expect me to share exactly what I found and, whenever possible, fix it myself. Open source is better when we all pitch in!
+
 ---
 
 Let’s build something awesome! 🚀
