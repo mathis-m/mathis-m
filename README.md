@@ -4,7 +4,7 @@ I'm a passionate and highly skilled frontend developer — possibly one of the b
 
 ### 🚀 What I work with:
 - **React** — my daily bread and butter  
-- **Fluent UI v9** — for beautiful, accessible design systems  
+- **Fluent UI v9** — for beautiful, accessible design systems and it offers the best react library architecture I have ever seen 
 - **PCF (PowerApps Component Framework)** — extending Power Platform with custom controls  
 - **.NET Framework** — because great frontend often needs solid backend support
 
